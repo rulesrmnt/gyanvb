@@ -1,0 +1,493 @@
+C:\Users\Rahul\documents\visual studio 2010\Projects\gyan\gyan\obj\x86\Debug\gyan.exe
+C:\Users\Rahul\documents\visual studio 2010\Projects\gyan\gyan\obj\x86\Debug\gyan.xml
+C:\Users\Rahul\documents\visual studio 2010\Projects\gyan\gyan\obj\x86\Debug\gyan.pdb
+C:\Users\Rahul\documents\visual studio 2010\Projects\gyan\gyan\bin\Debug\gyan.exe
+C:\Users\Rahul\documents\visual studio 2010\Projects\gyan\gyan\bin\Debug\gyan.pdb
+C:\Users\Rahul\documents\visual studio 2010\Projects\gyan\gyan\bin\Debug\gyan.xml
+C:\Users\Rahul\documents\visual studio 2010\Projects\gyan\gyan\obj\x86\Debug\Gyan.frmHawkerPaperTaken.resources
+C:\Users\Rahul\documents\visual studio 2010\Projects\gyan\gyan\obj\x86\Debug\Gyan.frmCustomerDetails.resources
+C:\Users\Rahul\documents\visual studio 2010\Projects\gyan\gyan\obj\x86\Debug\Gyan.frmHawkerDetails.resources
+C:\Users\Rahul\documents\visual studio 2010\Projects\gyan\gyan\obj\x86\Debug\Gyan.frmMain.resources
+C:\Users\Rahul\documents\visual studio 2010\Projects\gyan\gyan\obj\x86\Debug\Gyan.FrmNewspaperDetails.resources
+C:\Users\Rahul\documents\visual studio 2010\Projects\gyan\gyan\obj\x86\Debug\Gyan.Resources.resources
+C:\Users\Rahul\documents\visual studio 2010\Projects\gyan\gyan\obj\x86\Debug\gyan.vbproj.GenerateResource.Cache
+C:\Users\Rahul\Documents\Visual Studio 2010\Projects\gyan\gyan\obj\x86\Debug\Gyan.Form1.resources
+C:\Users\Rahul\Documents\Visual Studio 2010\Projects\gyan\gyan\obj\x86\Debug\Gyan.frmCountDays.resources
+C:\Users\Rahul\Documents\Visual Studio 2010\Projects\gyan\gyan\obj\x86\Debug\gyan.vbprojResolveAssemblyReference.cache
+C:\Users\Rahul\Documents\Visual Studio 2010\Projects\gyan\gyan\bin\Debug\gyan.exe.config
+C:\Users\Rahul\Documents\Visual Studio 2010\Projects\gyan\gyan\bin\Debug\Database1.mdf
+C:\Users\Rahul\Documents\Visual Studio 2010\Projects\gyan\gyan\bin\Debug\Database1_log.ldf
+D:\vb\Visual Studio 2010\Projects\gyan\gyan\bin\Debug\gyan.exe.config
+D:\vb\Visual Studio 2010\Projects\gyan\gyan\obj\x86\Debug\gyan.exe
+D:\vb\Visual Studio 2010\Projects\gyan\gyan\obj\x86\Debug\gyan.xml
+D:\vb\Visual Studio 2010\Projects\gyan\gyan\obj\x86\Debug\gyan.pdb
+E:\vb\Visual Studio 2010\Projects\gyan\gyan\bin\Debug\gyan.exe.config
+E:\vb\Visual Studio 2010\Projects\gyan\gyan\obj\x86\Debug\gyan.exe
+E:\vb\Visual Studio 2010\Projects\gyan\gyan\obj\x86\Debug\gyan.xml
+E:\vb\Visual Studio 2010\Projects\gyan\gyan\obj\x86\Debug\gyan.pdb
+E:\vb\Visual Studio 2010\Projects\gyan\gyan\obj\x86\Debug\gyan.vbprojResolveAssemblyReference.cache
+E:\vb\Visual Studio 2010\Projects\gyan\gyan\obj\x86\Debug\Gyan.frmHawkerReturn.resources
+E:\vb\Visual Studio 2010\Projects\gyan\gyan\obj\x86\Debug\Gyan.frmHawkerPaperSupply.resources
+E:\vb\Visual Studio 2010\Projects\gyan\gyan\obj\x86\Debug\Gyan.frmCountDays.resources
+E:\vb\Visual Studio 2010\Projects\gyan\gyan\obj\x86\Debug\Gyan.frmHawkerPaperTaken.resources
+E:\vb\Visual Studio 2010\Projects\gyan\gyan\obj\x86\Debug\Gyan.frmCustomerDetails.resources
+E:\vb\Visual Studio 2010\Projects\gyan\gyan\obj\x86\Debug\Gyan.frmHawkerDetails.resources
+E:\vb\Visual Studio 2010\Projects\gyan\gyan\obj\x86\Debug\Gyan.frmMain.resources
+E:\vb\Visual Studio 2010\Projects\gyan\gyan\obj\x86\Debug\Gyan.FrmNewspaperDetails.resources
+E:\vb\Visual Studio 2010\Projects\gyan\gyan\obj\x86\Debug\Gyan.Resources.resources
+E:\vb\Visual Studio 2010\Projects\gyan\gyan\obj\x86\Debug\gyan.vbproj.GenerateResource.Cache
+E:\vb\Visual Studio 2010\Projects\gyan\gyan\bin\Debug\gyan.exe
+E:\vb\Visual Studio 2010\Projects\gyan\gyan\bin\Debug\gyan.pdb
+E:\vb\Visual Studio 2010\Projects\gyan\gyan\bin\Debug\gyan.xml
+E:\vb\Visual Studio 2010\Projects\gyan\gyan\obj\x86\Debug\Gyan.frmCustomerAttendance.resources
+E:\vb\Visual Studio 2010\Projects\gyan\gyan\obj\x86\Debug\Gyan.frmCustomerAccount.resources
+E:\vb\Visual Studio 2010\Projects\gyan\gyan\bin\Debug\gyan_1.mdf
+E:\vb\Visual Studio 2010\Projects\gyan\gyan\bin\Debug\gyan_1_log.ldf
+E:\vb\Visual Studio 2010\Projects\gyan\gyan\obj\x86\Debug\Gyan.Form1.resources
+E:\vb\Visual Studio 2010\Projects\gyan\gyan\obj\x86\Debug\Gyan.frmNewsPaperRecord.resources
+E:\vb\Visual Studio 2010\Projects\gyan\gyan\obj\x86\Debug\Gyan.frmCollectionEntry.resources
+E:\vb\Visual Studio 2010\Projects\gyan\gyan\obj\x86\Debug\Gyan.frmRecordCustomerAccount.resources
+E:\vb\Visual Studio 2010\Projects\gyan\gyan\obj\x86\Debug\Gyan.frmRpt1.resources
+E:\vb\Visual Studio 2010\Projects\gyan\gyan\obj\x86\Debug\Gyan.Form2.resources
+D:\Projects\gyan\gyan\bin\Debug\gyan.exe.config
+D:\Projects\gyan\gyan\obj\x86\Debug\gyan.exe
+D:\Projects\gyan\gyan\obj\x86\Debug\gyan.xml
+D:\Projects\gyan\gyan\obj\x86\Debug\gyan.pdb
+D:\Projects\gyan\gyan\bin\Debug\gyan_1.mdf
+D:\Projects\gyan\gyan\bin\Debug\gyan_1_log.ldf
+D:\Projects\gyan\gyan\bin\Debug\gyan.exe
+D:\Projects\gyan\gyan\bin\Debug\gyan.pdb
+D:\Projects\gyan\gyan\bin\Debug\gyan.xml
+D:\Projects\gyan\gyan\obj\x86\Debug\gyan.vbprojResolveAssemblyReference.cache
+D:\Projects\gyan\gyan\obj\x86\Debug\Gyan.Form2.resources
+D:\Projects\gyan\gyan\obj\x86\Debug\Gyan.frmRecordCustomerAccount.resources
+D:\Projects\gyan\gyan\obj\x86\Debug\Gyan.frmCollectionEntry.resources
+D:\Projects\gyan\gyan\obj\x86\Debug\Gyan.frmNewsPaperRecord.resources
+D:\Projects\gyan\gyan\obj\x86\Debug\Gyan.frmCustomerAttendance.resources
+D:\Projects\gyan\gyan\obj\x86\Debug\Gyan.frmCustomerAccount.resources
+D:\Projects\gyan\gyan\obj\x86\Debug\Gyan.frmHawkerReturn.resources
+D:\Projects\gyan\gyan\obj\x86\Debug\Gyan.frmHawkerPaperSupply.resources
+D:\Projects\gyan\gyan\obj\x86\Debug\Gyan.frmCountDays.resources
+D:\Projects\gyan\gyan\obj\x86\Debug\Gyan.frmHawkerPaperTaken.resources
+D:\Projects\gyan\gyan\obj\x86\Debug\Gyan.frmCustomerDetails.resources
+D:\Projects\gyan\gyan\obj\x86\Debug\Gyan.frmHawkerDetails.resources
+D:\Projects\gyan\gyan\obj\x86\Debug\Gyan.frmMain.resources
+D:\Projects\gyan\gyan\obj\x86\Debug\Gyan.FrmNewspaperDetails.resources
+D:\Projects\gyan\gyan\obj\x86\Debug\Gyan.frmRpt1.resources
+D:\Projects\gyan\gyan\obj\x86\Debug\Gyan.Resources.resources
+D:\Projects\gyan\gyan\obj\x86\Debug\gyan.vbproj.GenerateResource.Cache
+D:\Projects\gyan\gyan\obj\x86\Debug\Gyan.FrmCustomerRecord.resources
+D:\Projects\gyan\gyan\obj\x86\Debug\Gyan.frmDailyRecord.resources
+D:\Projects\gyan\gyan\obj\x86\Debug\Gyan.frmCustomerBalanceRecord.resources
+D:\Projects\gyan\gyan\obj\x86\Debug\Gyan.frmCollectionRecord.resources
+D:\Projects\gyan\gyan\obj\x86\Debug\Gyan.frmAreaMaster.resources
+D:\Projects\gyan\gyan\obj\x86\Debug\Gyan.frmHawkerRecord.resources
+D:\Projects\gyan\gyan\obj\x86\Debug\Gyan.frmAreaRecord.resources
+D:\Projects\gyan\gyan\obj\x86\Debug\Gyan.frmCustomerEntryRecord.resources
+F:\gyan\gyan\bin\Debug\gyan.exe.config
+F:\gyan\gyan\obj\x86\Debug\gyan.exe
+F:\gyan\gyan\obj\x86\Debug\gyan.xml
+F:\gyan\gyan\obj\x86\Debug\gyan.pdb
+F:\gyan\gyan\bin\Debug\gyan_1.mdf
+F:\gyan\gyan\bin\Debug\gyan_1_log.ldf
+F:\gyan\gyan\bin\Debug\gyan.exe
+F:\gyan\gyan\bin\Debug\gyan.pdb
+F:\gyan\gyan\bin\Debug\gyan.xml
+F:\gyan\gyan\obj\x86\Debug\gyan.vbprojResolveAssemblyReference.cache
+F:\gyan\gyan\obj\x86\Debug\Gyan.frmAreaRecord.resources
+F:\gyan\gyan\obj\x86\Debug\Gyan.frmCustomerEntryRecord.resources
+F:\gyan\gyan\obj\x86\Debug\Gyan.frmHawkerRecord.resources
+F:\gyan\gyan\obj\x86\Debug\Gyan.frmAreaMaster.resources
+F:\gyan\gyan\obj\x86\Debug\Gyan.frmCollectionRecord.resources
+F:\gyan\gyan\obj\x86\Debug\Gyan.frmCustomerBalanceRecord.resources
+F:\gyan\gyan\obj\x86\Debug\Gyan.FrmCustomerRecord.resources
+F:\gyan\gyan\obj\x86\Debug\Gyan.Form2.resources
+F:\gyan\gyan\obj\x86\Debug\Gyan.frmDailyRecord.resources
+F:\gyan\gyan\obj\x86\Debug\Gyan.frmRecordCustomerAccount.resources
+F:\gyan\gyan\obj\x86\Debug\Gyan.frmCollectionEntry.resources
+F:\gyan\gyan\obj\x86\Debug\Gyan.frmNewsPaperRecord.resources
+F:\gyan\gyan\obj\x86\Debug\Gyan.frmCustomerAttendance.resources
+F:\gyan\gyan\obj\x86\Debug\Gyan.frmCustomerAccount.resources
+F:\gyan\gyan\obj\x86\Debug\Gyan.frmHawkerReturn.resources
+F:\gyan\gyan\obj\x86\Debug\Gyan.frmHawkerPaperSupply.resources
+F:\gyan\gyan\obj\x86\Debug\Gyan.frmHawkerPaperTaken.resources
+F:\gyan\gyan\obj\x86\Debug\Gyan.frmCustomerDetails.resources
+F:\gyan\gyan\obj\x86\Debug\Gyan.frmHawkerDetails.resources
+F:\gyan\gyan\obj\x86\Debug\Gyan.frmMain.resources
+F:\gyan\gyan\obj\x86\Debug\Gyan.FrmNewspaperDetails.resources
+F:\gyan\gyan\obj\x86\Debug\Gyan.Resources.resources
+F:\gyan\gyan\obj\x86\Debug\gyan.vbproj.GenerateResource.Cache
+F:\gyan\gyan\obj\x86\Debug\Gyan.frmHawkerReturnRecord.resources
+F:\gyan\gyan\obj\x86\Debug\Gyan.frmBillRpt.resources
+E:\pen\gyan\gyan\bin\Debug\gyan.exe.config
+E:\pen\gyan\gyan\obj\x86\Debug\gyan.exe
+E:\pen\gyan\gyan\obj\x86\Debug\gyan.xml
+E:\pen\gyan\gyan\obj\x86\Debug\gyan.pdb
+E:\pen\gyan\gyan\bin\Debug\gyan_1.mdf
+E:\pen\gyan\gyan\bin\Debug\gyan_1_log.ldf
+E:\pen\gyan\gyan\bin\Debug\gyan.exe
+E:\pen\gyan\gyan\bin\Debug\gyan.pdb
+E:\pen\gyan\gyan\bin\Debug\gyan.xml
+E:\pen\gyan\gyan\obj\x86\Debug\gyan.vbprojResolveAssemblyReference.cache
+E:\pen\gyan\gyan\obj\x86\Debug\Gyan.frmAreaRecord.resources
+E:\pen\gyan\gyan\obj\x86\Debug\Gyan.frmBillRpt.resources
+E:\pen\gyan\gyan\obj\x86\Debug\Gyan.frmCustomerEntryRecord.resources
+E:\pen\gyan\gyan\obj\x86\Debug\Gyan.frmHawkerRecord.resources
+E:\pen\gyan\gyan\obj\x86\Debug\Gyan.frmAreaMaster.resources
+E:\pen\gyan\gyan\obj\x86\Debug\Gyan.frmCollectionRecord.resources
+E:\pen\gyan\gyan\obj\x86\Debug\Gyan.frmCustomerBalanceRecord.resources
+E:\pen\gyan\gyan\obj\x86\Debug\Gyan.FrmCustomerRecord.resources
+E:\pen\gyan\gyan\obj\x86\Debug\Gyan.Form2.resources
+E:\pen\gyan\gyan\obj\x86\Debug\Gyan.frmHawkerReturnRecord.resources
+E:\pen\gyan\gyan\obj\x86\Debug\Gyan.frmDailyRecord.resources
+E:\pen\gyan\gyan\obj\x86\Debug\Gyan.frmRecordCustomerAccount.resources
+E:\pen\gyan\gyan\obj\x86\Debug\Gyan.frmCollectionEntry.resources
+E:\pen\gyan\gyan\obj\x86\Debug\Gyan.frmNewsPaperRecord.resources
+E:\pen\gyan\gyan\obj\x86\Debug\Gyan.frmCustomerAttendance.resources
+E:\pen\gyan\gyan\obj\x86\Debug\Gyan.frmCustomerAccount.resources
+E:\pen\gyan\gyan\obj\x86\Debug\Gyan.frmHawkerReturn.resources
+E:\pen\gyan\gyan\obj\x86\Debug\Gyan.frmHawkerPaperSupply.resources
+E:\pen\gyan\gyan\obj\x86\Debug\Gyan.frmHawkerPaperTaken.resources
+E:\pen\gyan\gyan\obj\x86\Debug\Gyan.frmCustomerDetails.resources
+E:\pen\gyan\gyan\obj\x86\Debug\Gyan.frmHawkerDetails.resources
+E:\pen\gyan\gyan\obj\x86\Debug\Gyan.frmMain.resources
+E:\pen\gyan\gyan\obj\x86\Debug\Gyan.FrmNewspaperDetails.resources
+E:\pen\gyan\gyan\obj\x86\Debug\Gyan.Resources.resources
+E:\pen\gyan\gyan\obj\x86\Debug\gyan.vbproj.GenerateResource.Cache
+E:\pen\gyan\gyan\obj\x86\Debug\Gyan.frmCollectionEntryRecord.resources
+E:\pen\gyan\gyan\obj\x86\Debug\Gyan.frmCusExtraPaper.resources
+E:\pen\gyan\gyan\obj\x86\Debug\Gyan.frmCustomerEntryRecord1.resources
+E:\pen\gyan\gyan\obj\x86\Debug\Gyan.frmMagazineDetail.resources
+E:\pen\gyan\gyan\obj\x86\Debug\Gyan.frmMagazineRecord.resources
+E:\pen\gyan\gyan\obj\x86\Debug\Gyan.frmCustomerEntryRecord2.resources
+E:\pen\gyan\gyan\obj\x86\Debug\Gyan.frmMagazineEntry.resources
+E:\pen\gyan\gyan\obj\x86\Debug\Gyan.frmHawkerPaperTakenRecord.resources
+E:\pen\gyan\gyan\obj\x86\Debug\Gyan.frmHawkerList.resources
+E:\pen\gyan\gyan\obj\x86\Debug\Gyan.frmBalanceRpt.resources
+E:\pen\gyan\gyan\obj\x86\Debug\Gyan.frmHawkerPaperSupplyRecord.resources
+E:\pen\gyan\gyan\obj\x86\Debug\Gyan.frmCollectionRpt.resources
+E:\pen\gyan\gyan\obj\x86\Debug\Gyan.frmHawkerReturnRpt.resources
+E:\gyan\gyan\bin\Debug\gyan.exe.config
+E:\gyan\gyan\obj\x86\Debug\gyan.exe
+E:\gyan\gyan\obj\x86\Debug\gyan.xml
+E:\gyan\gyan\obj\x86\Debug\gyan.pdb
+E:\gyan\gyan\bin\Debug\gyan_1.mdf
+E:\gyan\gyan\bin\Debug\gyan_1_log.ldf
+E:\gyan\gyan\bin\Debug\gyan.exe
+E:\gyan\gyan\bin\Debug\gyan.pdb
+E:\gyan\gyan\bin\Debug\gyan.xml
+E:\gyan\gyan\obj\x86\Debug\gyan.vbprojResolveAssemblyReference.cache
+E:\gyan\gyan\obj\x86\Debug\Gyan.frmChangePassword.resources
+E:\gyan\gyan\obj\x86\Debug\Gyan.frmCollectionRpt.resources
+E:\gyan\gyan\obj\x86\Debug\Gyan.frmBalanceRpt.resources
+E:\gyan\gyan\obj\x86\Debug\Gyan.frmHawkerList.resources
+E:\gyan\gyan\obj\x86\Debug\Gyan.frmHawkerPaperSupplyRecord.resources
+E:\gyan\gyan\obj\x86\Debug\Gyan.frmHawkerPaperTakenRecord.resources
+E:\gyan\gyan\obj\x86\Debug\Gyan.frmCustomerEntryRecord2.resources
+E:\gyan\gyan\obj\x86\Debug\Gyan.frmHawkerReturnRpt.resources
+E:\gyan\gyan\obj\x86\Debug\Gyan.frmMagazineEntry.resources
+E:\gyan\gyan\obj\x86\Debug\Gyan.frmMagazineRecord.resources
+E:\gyan\gyan\obj\x86\Debug\Gyan.frmCollectionEntryRecord.resources
+E:\gyan\gyan\obj\x86\Debug\Gyan.frmAreaRecord.resources
+E:\gyan\gyan\obj\x86\Debug\Gyan.frmBillRpt.resources
+E:\gyan\gyan\obj\x86\Debug\Gyan.frmCusExtraPaper.resources
+E:\gyan\gyan\obj\x86\Debug\Gyan.frmCustomerEntryRecord.resources
+E:\gyan\gyan\obj\x86\Debug\Gyan.frmCustomerEntryRecord1.resources
+E:\gyan\gyan\obj\x86\Debug\Gyan.frmHawkerRecord.resources
+E:\gyan\gyan\obj\x86\Debug\Gyan.frmAreaMaster.resources
+E:\gyan\gyan\obj\x86\Debug\Gyan.frmCollectionRecord.resources
+E:\gyan\gyan\obj\x86\Debug\Gyan.frmCustomerBalanceRecord.resources
+E:\gyan\gyan\obj\x86\Debug\Gyan.FrmCustomerRecord.resources
+E:\gyan\gyan\obj\x86\Debug\Gyan.Form2.resources
+E:\gyan\gyan\obj\x86\Debug\Gyan.frmHawkerReturnRecord.resources
+E:\gyan\gyan\obj\x86\Debug\Gyan.frmMagazineDetail.resources
+E:\gyan\gyan\obj\x86\Debug\Gyan.Loginform.resources
+E:\gyan\gyan\obj\x86\Debug\Gyan.frmDailyRecord.resources
+E:\gyan\gyan\obj\x86\Debug\Gyan.frmRecordCustomerAccount.resources
+E:\gyan\gyan\obj\x86\Debug\Gyan.frmCollectionEntry.resources
+E:\gyan\gyan\obj\x86\Debug\Gyan.frmNewsPaperRecord.resources
+E:\gyan\gyan\obj\x86\Debug\Gyan.frmCustomerAttendance.resources
+E:\gyan\gyan\obj\x86\Debug\Gyan.frmCustomerAccount.resources
+E:\gyan\gyan\obj\x86\Debug\Gyan.frmHawkerReturn.resources
+E:\gyan\gyan\obj\x86\Debug\Gyan.frmHawkerPaperSupply.resources
+E:\gyan\gyan\obj\x86\Debug\Gyan.frmHawkerPaperTaken.resources
+E:\gyan\gyan\obj\x86\Debug\Gyan.frmCustomerDetails.resources
+E:\gyan\gyan\obj\x86\Debug\Gyan.frmHawkerDetails.resources
+E:\gyan\gyan\obj\x86\Debug\Gyan.frmMain.resources
+E:\gyan\gyan\obj\x86\Debug\Gyan.FrmNewspaperDetails.resources
+E:\gyan\gyan\obj\x86\Debug\Gyan.Resources.resources
+E:\gyan\gyan\obj\x86\Debug\gyan.vbproj.GenerateResource.Cache
+F:\gyan\gyan\obj\x86\Debug\Gyan.frmChangePassword.resources
+F:\gyan\gyan\obj\x86\Debug\Gyan.frmCollectionRpt.resources
+F:\gyan\gyan\obj\x86\Debug\Gyan.frmBalanceRpt.resources
+F:\gyan\gyan\obj\x86\Debug\Gyan.frmHawkerList.resources
+F:\gyan\gyan\obj\x86\Debug\Gyan.frmHawkerPaperSupplyRecord.resources
+F:\gyan\gyan\obj\x86\Debug\Gyan.frmHawkerPaperTakenRecord.resources
+F:\gyan\gyan\obj\x86\Debug\Gyan.frmCustomerEntryRecord2.resources
+F:\gyan\gyan\obj\x86\Debug\Gyan.frmHawkerReturnRpt.resources
+F:\gyan\gyan\obj\x86\Debug\Gyan.frmMagazineEntry.resources
+F:\gyan\gyan\obj\x86\Debug\Gyan.frmMagazineRecord.resources
+F:\gyan\gyan\obj\x86\Debug\Gyan.frmCollectionEntryRecord.resources
+F:\gyan\gyan\obj\x86\Debug\Gyan.frmCusExtraPaper.resources
+F:\gyan\gyan\obj\x86\Debug\Gyan.frmCustomerEntryRecord1.resources
+F:\gyan\gyan\obj\x86\Debug\Gyan.frmMagazineDetail.resources
+F:\gyan\gyan\obj\x86\Debug\Gyan.Loginform.resources
+F:\gyan\gyan\obj\x86\Debug\Gyan.Form1.resources
+F:\gyan\gyan\obj\x86\Debug\Gyan.frmCustomerMaster1.resources
+F:\gyan\gyan\obj\x86\Debug\Gyan.frmCustomerEntryRecord3.resources
+F:\New folder (2)\gyan\gyan\bin\Debug\gyan.exe.config
+F:\New folder (2)\gyan\gyan\obj\x86\Debug\gyan.exe
+F:\New folder (2)\gyan\gyan\obj\x86\Debug\gyan.xml
+F:\New folder (2)\gyan\gyan\obj\x86\Debug\gyan.pdb
+F:\New folder (2)\gyan\gyan\obj\x86\Debug\gyan.vbprojResolveAssemblyReference.cache
+F:\New folder (2)\gyan\gyan\obj\x86\Debug\Gyan.frmCustomerEntryRecord3.resources
+F:\New folder (2)\gyan\gyan\obj\x86\Debug\Gyan.frmCustomerMaster1.resources
+F:\New folder (2)\gyan\gyan\obj\x86\Debug\Gyan.frmChangePassword.resources
+F:\New folder (2)\gyan\gyan\obj\x86\Debug\Gyan.frmCollectionRpt.resources
+F:\New folder (2)\gyan\gyan\obj\x86\Debug\Gyan.frmBalanceRpt.resources
+F:\New folder (2)\gyan\gyan\obj\x86\Debug\Gyan.frmHawkerList.resources
+F:\New folder (2)\gyan\gyan\obj\x86\Debug\Gyan.frmHawkerPaperSupplyRecord.resources
+F:\New folder (2)\gyan\gyan\obj\x86\Debug\Gyan.frmHawkerPaperTakenRecord.resources
+F:\New folder (2)\gyan\gyan\obj\x86\Debug\Gyan.frmCustomerEntryRecord2.resources
+F:\New folder (2)\gyan\gyan\obj\x86\Debug\Gyan.frmHawkerReturnRpt.resources
+F:\New folder (2)\gyan\gyan\obj\x86\Debug\Gyan.frmMagazineEntry.resources
+F:\New folder (2)\gyan\gyan\obj\x86\Debug\Gyan.frmMagazineRecord.resources
+F:\New folder (2)\gyan\gyan\obj\x86\Debug\Gyan.frmCollectionEntryRecord.resources
+F:\New folder (2)\gyan\gyan\obj\x86\Debug\Gyan.frmAreaRecord.resources
+F:\New folder (2)\gyan\gyan\obj\x86\Debug\Gyan.frmBillRpt.resources
+F:\New folder (2)\gyan\gyan\obj\x86\Debug\Gyan.frmCusExtraPaper.resources
+F:\New folder (2)\gyan\gyan\obj\x86\Debug\Gyan.frmCustomerEntryRecord.resources
+F:\New folder (2)\gyan\gyan\obj\x86\Debug\Gyan.frmCustomerEntryRecord1.resources
+F:\New folder (2)\gyan\gyan\obj\x86\Debug\Gyan.frmHawkerRecord.resources
+F:\New folder (2)\gyan\gyan\obj\x86\Debug\Gyan.frmAreaMaster.resources
+F:\New folder (2)\gyan\gyan\obj\x86\Debug\Gyan.frmCollectionRecord.resources
+F:\New folder (2)\gyan\gyan\obj\x86\Debug\Gyan.frmCustomerBalanceRecord.resources
+F:\New folder (2)\gyan\gyan\obj\x86\Debug\Gyan.FrmCustomerRecord.resources
+F:\New folder (2)\gyan\gyan\obj\x86\Debug\Gyan.Form2.resources
+F:\New folder (2)\gyan\gyan\obj\x86\Debug\Gyan.frmHawkerReturnRecord.resources
+F:\New folder (2)\gyan\gyan\obj\x86\Debug\Gyan.frmMagazineDetail.resources
+F:\New folder (2)\gyan\gyan\obj\x86\Debug\Gyan.Loginform.resources
+F:\New folder (2)\gyan\gyan\obj\x86\Debug\Gyan.frmDailyRecord.resources
+F:\New folder (2)\gyan\gyan\obj\x86\Debug\Gyan.frmRecordCustomerAccount.resources
+F:\New folder (2)\gyan\gyan\obj\x86\Debug\Gyan.frmCollectionEntry.resources
+F:\New folder (2)\gyan\gyan\obj\x86\Debug\Gyan.frmNewsPaperRecord.resources
+F:\New folder (2)\gyan\gyan\obj\x86\Debug\Gyan.frmCustomerAttendance.resources
+F:\New folder (2)\gyan\gyan\obj\x86\Debug\Gyan.frmCustomerAccount.resources
+F:\New folder (2)\gyan\gyan\obj\x86\Debug\Gyan.frmHawkerReturn.resources
+F:\New folder (2)\gyan\gyan\obj\x86\Debug\Gyan.frmHawkerPaperSupply.resources
+F:\New folder (2)\gyan\gyan\obj\x86\Debug\Gyan.frmHawkerPaperTaken.resources
+F:\New folder (2)\gyan\gyan\obj\x86\Debug\Gyan.frmCustomerDetails.resources
+F:\New folder (2)\gyan\gyan\obj\x86\Debug\Gyan.frmHawkerDetails.resources
+F:\New folder (2)\gyan\gyan\obj\x86\Debug\Gyan.frmMain.resources
+F:\New folder (2)\gyan\gyan\obj\x86\Debug\Gyan.FrmNewspaperDetails.resources
+F:\New folder (2)\gyan\gyan\obj\x86\Debug\Gyan.Resources.resources
+F:\New folder (2)\gyan\gyan\obj\x86\Debug\gyan.vbproj.GenerateResource.Cache
+F:\New folder (2)\gyan\gyan\bin\Debug\gyan_1.mdf
+F:\New folder (2)\gyan\gyan\bin\Debug\gyan_1_log.ldf
+F:\New folder (2)\gyan\gyan\bin\Debug\gyan.exe
+F:\New folder (2)\gyan\gyan\bin\Debug\gyan.pdb
+F:\New folder (2)\gyan\gyan\bin\Debug\gyan.xml
+F:\New folder (2)\gyan\gyan\obj\x86\Debug\Gyan.frmDeleteAttendance.resources
+F:\New folder (2)\gyan\gyan\obj\x86\Debug\Gyan.frmCustomerRecord1.resources
+F:\New folder (2)\gyan\gyan\obj\x86\Debug\Gyan.frmPrintChange.resources
+F:\New folder (2)\gyan\gyan\obj\x86\Debug\Gyan.frmBillChange.resources
+F:\New folder (2)\gyan\gyan\obj\x86\Debug\Gyan.frmChangeBill.resources
+F:\New folder (2)\gyan\gyan\obj\x86\Debug\Gyan.frmAdmin.resources
+F:\New folder (2)\gyan\gyan\obj\x86\Debug\Gyan.frmAdminChangePassword.resources
+F:\New folder (2)\gyan\gyan\obj\x86\Debug\Gyan.frmCheckAttendance.resources
+F:\New folder (2)\gyan\gyan\obj\x86\Debug\Gyan.frmAttendaneManual.resources
+F:\New folder (2)\gyan\gyan\obj\x86\Debug\Gyan.frmReturnRpt.resources
+F:\New folder (2)\gyan\gyan\obj\x86\Debug\Gyan.frmExtraSold.resources
+E:\e drive\New folder (2)\gyan\gyan\bin\Debug\gyan.exe.config
+E:\e drive\New folder (2)\gyan\gyan\obj\x86\Debug\gyan.exe
+E:\e drive\New folder (2)\gyan\gyan\obj\x86\Debug\gyan.xml
+E:\e drive\New folder (2)\gyan\gyan\obj\x86\Debug\gyan.pdb
+E:\e drive\New folder (2)\gyan\gyan\bin\Debug\gyan_1.mdf
+E:\e drive\New folder (2)\gyan\gyan\bin\Debug\gyan_1_log.ldf
+E:\e drive\New folder (2)\gyan\gyan\bin\Debug\gyan.exe
+E:\e drive\New folder (2)\gyan\gyan\bin\Debug\gyan.pdb
+E:\e drive\New folder (2)\gyan\gyan\bin\Debug\gyan.xml
+E:\e drive\New folder (2)\gyan\gyan\obj\x86\Debug\gyan.vbprojResolveAssemblyReference.cache
+E:\e drive\New folder (2)\gyan\gyan\obj\x86\Debug\Gyan.frmAttendaneManual.resources
+E:\e drive\New folder (2)\gyan\gyan\obj\x86\Debug\Gyan.frmAdminChangePassword.resources
+E:\e drive\New folder (2)\gyan\gyan\obj\x86\Debug\Gyan.frmAdmin.resources
+E:\e drive\New folder (2)\gyan\gyan\obj\x86\Debug\Gyan.frmCheckAttendance.resources
+E:\e drive\New folder (2)\gyan\gyan\obj\x86\Debug\Gyan.frmExtraSold.resources
+E:\e drive\New folder (2)\gyan\gyan\obj\x86\Debug\Gyan.frmPrintChange.resources
+E:\e drive\New folder (2)\gyan\gyan\obj\x86\Debug\Gyan.frmBillChange.resources
+E:\e drive\New folder (2)\gyan\gyan\obj\x86\Debug\Gyan.frmChangeBill.resources
+E:\e drive\New folder (2)\gyan\gyan\obj\x86\Debug\Gyan.frmCustomerRecord1.resources
+E:\e drive\New folder (2)\gyan\gyan\obj\x86\Debug\Gyan.frmDeleteAttendance.resources
+E:\e drive\New folder (2)\gyan\gyan\obj\x86\Debug\Gyan.frmCustomerEntryRecord3.resources
+E:\e drive\New folder (2)\gyan\gyan\obj\x86\Debug\Gyan.frmCustomerMaster1.resources
+E:\e drive\New folder (2)\gyan\gyan\obj\x86\Debug\Gyan.frmChangePassword.resources
+E:\e drive\New folder (2)\gyan\gyan\obj\x86\Debug\Gyan.frmCollectionRpt.resources
+E:\e drive\New folder (2)\gyan\gyan\obj\x86\Debug\Gyan.frmBalanceRpt.resources
+E:\e drive\New folder (2)\gyan\gyan\obj\x86\Debug\Gyan.frmHawkerList.resources
+E:\e drive\New folder (2)\gyan\gyan\obj\x86\Debug\Gyan.frmHawkerPaperSupplyRecord.resources
+E:\e drive\New folder (2)\gyan\gyan\obj\x86\Debug\Gyan.frmHawkerPaperTakenRecord.resources
+E:\e drive\New folder (2)\gyan\gyan\obj\x86\Debug\Gyan.frmCustomerEntryRecord2.resources
+E:\e drive\New folder (2)\gyan\gyan\obj\x86\Debug\Gyan.frmHawkerReturnRpt.resources
+E:\e drive\New folder (2)\gyan\gyan\obj\x86\Debug\Gyan.frmMagazineEntry.resources
+E:\e drive\New folder (2)\gyan\gyan\obj\x86\Debug\Gyan.frmMagazineRecord.resources
+E:\e drive\New folder (2)\gyan\gyan\obj\x86\Debug\Gyan.frmCollectionEntryRecord.resources
+E:\e drive\New folder (2)\gyan\gyan\obj\x86\Debug\Gyan.frmAreaRecord.resources
+E:\e drive\New folder (2)\gyan\gyan\obj\x86\Debug\Gyan.frmBillRpt.resources
+E:\e drive\New folder (2)\gyan\gyan\obj\x86\Debug\Gyan.frmCusExtraPaper.resources
+E:\e drive\New folder (2)\gyan\gyan\obj\x86\Debug\Gyan.frmCustomerEntryRecord.resources
+E:\e drive\New folder (2)\gyan\gyan\obj\x86\Debug\Gyan.frmCustomerEntryRecord1.resources
+E:\e drive\New folder (2)\gyan\gyan\obj\x86\Debug\Gyan.frmHawkerRecord.resources
+E:\e drive\New folder (2)\gyan\gyan\obj\x86\Debug\Gyan.frmAreaMaster.resources
+E:\e drive\New folder (2)\gyan\gyan\obj\x86\Debug\Gyan.frmCollectionRecord.resources
+E:\e drive\New folder (2)\gyan\gyan\obj\x86\Debug\Gyan.frmCustomerBalanceRecord.resources
+E:\e drive\New folder (2)\gyan\gyan\obj\x86\Debug\Gyan.FrmCustomerRecord.resources
+E:\e drive\New folder (2)\gyan\gyan\obj\x86\Debug\Gyan.Form2.resources
+E:\e drive\New folder (2)\gyan\gyan\obj\x86\Debug\Gyan.frmHawkerReturnRecord.resources
+E:\e drive\New folder (2)\gyan\gyan\obj\x86\Debug\Gyan.frmMagazineDetail.resources
+E:\e drive\New folder (2)\gyan\gyan\obj\x86\Debug\Gyan.frmReturnRpt.resources
+E:\e drive\New folder (2)\gyan\gyan\obj\x86\Debug\Gyan.Loginform.resources
+E:\e drive\New folder (2)\gyan\gyan\obj\x86\Debug\Gyan.frmDailyRecord.resources
+E:\e drive\New folder (2)\gyan\gyan\obj\x86\Debug\Gyan.frmRecordCustomerAccount.resources
+E:\e drive\New folder (2)\gyan\gyan\obj\x86\Debug\Gyan.frmCollectionEntry.resources
+E:\e drive\New folder (2)\gyan\gyan\obj\x86\Debug\Gyan.frmNewsPaperRecord.resources
+E:\e drive\New folder (2)\gyan\gyan\obj\x86\Debug\Gyan.frmCustomerAttendance.resources
+E:\e drive\New folder (2)\gyan\gyan\obj\x86\Debug\Gyan.frmCustomerAccount.resources
+E:\e drive\New folder (2)\gyan\gyan\obj\x86\Debug\Gyan.frmHawkerReturn.resources
+E:\e drive\New folder (2)\gyan\gyan\obj\x86\Debug\Gyan.frmHawkerPaperSupply.resources
+E:\e drive\New folder (2)\gyan\gyan\obj\x86\Debug\Gyan.frmHawkerPaperTaken.resources
+E:\e drive\New folder (2)\gyan\gyan\obj\x86\Debug\Gyan.frmCustomerDetails.resources
+E:\e drive\New folder (2)\gyan\gyan\obj\x86\Debug\Gyan.frmHawkerDetails.resources
+E:\e drive\New folder (2)\gyan\gyan\obj\x86\Debug\Gyan.frmMain.resources
+E:\e drive\New folder (2)\gyan\gyan\obj\x86\Debug\Gyan.FrmNewspaperDetails.resources
+E:\e drive\New folder (2)\gyan\gyan\obj\x86\Debug\Gyan.Resources.resources
+E:\e drive\New folder (2)\gyan\gyan\obj\x86\Debug\gyan.vbproj.GenerateResource.Cache
+F:\e drive\New folder (2)\gyan\gyan\bin\Debug\gyan.exe.config
+F:\e drive\New folder (2)\gyan\gyan\obj\x86\Debug\gyan.exe
+F:\e drive\New folder (2)\gyan\gyan\obj\x86\Debug\gyan.xml
+F:\e drive\New folder (2)\gyan\gyan\obj\x86\Debug\gyan.pdb
+F:\new vb project\gyan\gyan\bin\Debug\gyan.exe.config
+F:\new vb project\gyan\gyan\obj\x86\Debug\gyan.exe
+F:\new vb project\gyan\gyan\obj\x86\Debug\gyan.xml
+F:\new vb project\gyan\gyan\obj\x86\Debug\gyan.pdb
+F:\new vb project\gyan\gyan\obj\x86\Debug\gyan.vbprojResolveAssemblyReference.cache
+F:\new vb project\gyan\gyan\obj\x86\Debug\Gyan.frmAttendaneManual.resources
+F:\new vb project\gyan\gyan\obj\x86\Debug\Gyan.frmAdminChangePassword.resources
+F:\new vb project\gyan\gyan\obj\x86\Debug\Gyan.frmAdmin.resources
+F:\new vb project\gyan\gyan\obj\x86\Debug\Gyan.frmCheckAttendance.resources
+F:\new vb project\gyan\gyan\obj\x86\Debug\Gyan.frmExtraSold.resources
+F:\new vb project\gyan\gyan\obj\x86\Debug\Gyan.frmPrintChange.resources
+F:\new vb project\gyan\gyan\obj\x86\Debug\Gyan.frmBillChange.resources
+F:\new vb project\gyan\gyan\obj\x86\Debug\Gyan.frmChangeBill.resources
+F:\new vb project\gyan\gyan\obj\x86\Debug\Gyan.frmCustomerRecord1.resources
+F:\new vb project\gyan\gyan\obj\x86\Debug\Gyan.frmDeleteAttendance.resources
+F:\new vb project\gyan\gyan\obj\x86\Debug\Gyan.frmCustomerEntryRecord3.resources
+F:\new vb project\gyan\gyan\obj\x86\Debug\Gyan.frmCustomerMaster1.resources
+F:\new vb project\gyan\gyan\obj\x86\Debug\Gyan.frmChangePassword.resources
+F:\new vb project\gyan\gyan\obj\x86\Debug\Gyan.frmCollectionRpt.resources
+F:\new vb project\gyan\gyan\obj\x86\Debug\Gyan.frmBalanceRpt.resources
+F:\new vb project\gyan\gyan\obj\x86\Debug\Gyan.frmHawkerList.resources
+F:\new vb project\gyan\gyan\obj\x86\Debug\Gyan.frmHawkerPaperSupplyRecord.resources
+F:\new vb project\gyan\gyan\obj\x86\Debug\Gyan.frmHawkerPaperTakenRecord.resources
+F:\new vb project\gyan\gyan\obj\x86\Debug\Gyan.frmCustomerEntryRecord2.resources
+F:\new vb project\gyan\gyan\obj\x86\Debug\Gyan.frmHawkerReturnRpt.resources
+F:\new vb project\gyan\gyan\obj\x86\Debug\Gyan.frmMagazineEntry.resources
+F:\new vb project\gyan\gyan\obj\x86\Debug\Gyan.frmMagazineRecord.resources
+F:\new vb project\gyan\gyan\obj\x86\Debug\Gyan.frmCollectionEntryRecord.resources
+F:\new vb project\gyan\gyan\obj\x86\Debug\Gyan.frmAreaRecord.resources
+F:\new vb project\gyan\gyan\obj\x86\Debug\Gyan.frmBillRpt.resources
+F:\new vb project\gyan\gyan\obj\x86\Debug\Gyan.frmCusExtraPaper.resources
+F:\new vb project\gyan\gyan\obj\x86\Debug\Gyan.frmCustomerEntryRecord.resources
+F:\new vb project\gyan\gyan\obj\x86\Debug\Gyan.frmCustomerEntryRecord1.resources
+F:\new vb project\gyan\gyan\obj\x86\Debug\Gyan.frmHawkerRecord.resources
+F:\new vb project\gyan\gyan\obj\x86\Debug\Gyan.frmAreaMaster.resources
+F:\new vb project\gyan\gyan\obj\x86\Debug\Gyan.frmCollectionRecord.resources
+F:\new vb project\gyan\gyan\obj\x86\Debug\Gyan.frmCustomerBalanceRecord.resources
+F:\new vb project\gyan\gyan\obj\x86\Debug\Gyan.FrmCustomerRecord.resources
+F:\new vb project\gyan\gyan\obj\x86\Debug\Gyan.Form2.resources
+F:\new vb project\gyan\gyan\obj\x86\Debug\Gyan.frmHawkerReturnRecord.resources
+F:\new vb project\gyan\gyan\obj\x86\Debug\Gyan.frmMagazineDetail.resources
+F:\new vb project\gyan\gyan\obj\x86\Debug\Gyan.frmReturnRpt.resources
+F:\new vb project\gyan\gyan\obj\x86\Debug\Gyan.Loginform.resources
+F:\new vb project\gyan\gyan\obj\x86\Debug\Gyan.frmDailyRecord.resources
+F:\new vb project\gyan\gyan\obj\x86\Debug\Gyan.frmRecordCustomerAccount.resources
+F:\new vb project\gyan\gyan\obj\x86\Debug\Gyan.frmCollectionEntry.resources
+F:\new vb project\gyan\gyan\obj\x86\Debug\Gyan.frmNewsPaperRecord.resources
+F:\new vb project\gyan\gyan\obj\x86\Debug\Gyan.frmCustomerAttendance.resources
+F:\new vb project\gyan\gyan\obj\x86\Debug\Gyan.frmCustomerAccount.resources
+F:\new vb project\gyan\gyan\obj\x86\Debug\Gyan.frmHawkerReturn.resources
+F:\new vb project\gyan\gyan\obj\x86\Debug\Gyan.frmHawkerPaperSupply.resources
+F:\new vb project\gyan\gyan\obj\x86\Debug\Gyan.frmHawkerPaperTaken.resources
+F:\new vb project\gyan\gyan\obj\x86\Debug\Gyan.frmCustomerDetails.resources
+F:\new vb project\gyan\gyan\obj\x86\Debug\Gyan.frmHawkerDetails.resources
+F:\new vb project\gyan\gyan\obj\x86\Debug\Gyan.frmMain.resources
+F:\new vb project\gyan\gyan\obj\x86\Debug\Gyan.FrmNewspaperDetails.resources
+F:\new vb project\gyan\gyan\obj\x86\Debug\Gyan.Resources.resources
+F:\new vb project\gyan\gyan\obj\x86\Debug\gyan.vbproj.GenerateResource.Cache
+F:\new vb project\gyan\gyan\bin\Debug\gyan_1.mdf
+F:\new vb project\gyan\gyan\bin\Debug\gyan_1_log.ldf
+F:\new vb project\gyan\gyan\bin\Debug\gyan.exe
+F:\new vb project\gyan\gyan\bin\Debug\gyan.pdb
+F:\new vb project\gyan\gyan\bin\Debug\gyan.xml
+G:\new vb project\gyan\gyan\bin\Debug\gyan.exe.config
+G:\new vb project\gyan\gyan\obj\x86\Debug\gyan.exe
+G:\new vb project\gyan\gyan\obj\x86\Debug\gyan.xml
+G:\new vb project\gyan\gyan\obj\x86\Debug\gyan.pdb
+G:\new vb project\gyan\gyan\bin\Debug\gyan_1.mdf
+G:\new vb project\gyan\gyan\bin\Debug\gyan_1_log.ldf
+G:\new vb project\gyan\gyan\bin\Debug\gyan.exe
+G:\new vb project\gyan\gyan\bin\Debug\gyan.pdb
+G:\new vb project\gyan\gyan\bin\Debug\gyan.xml
+G:\new vb project\gyan\gyan\obj\x86\Debug\gyan.vbprojResolveAssemblyReference.cache
+G:\new vb project\gyan\gyan\obj\x86\Debug\Gyan.frmAttendaneManual.resources
+G:\new vb project\gyan\gyan\obj\x86\Debug\Gyan.frmAdminChangePassword.resources
+G:\new vb project\gyan\gyan\obj\x86\Debug\Gyan.frmAdmin.resources
+G:\new vb project\gyan\gyan\obj\x86\Debug\Gyan.frmCheckAttendance.resources
+G:\new vb project\gyan\gyan\obj\x86\Debug\Gyan.frmExtraSold.resources
+G:\new vb project\gyan\gyan\obj\x86\Debug\Gyan.frmPrintChange.resources
+G:\new vb project\gyan\gyan\obj\x86\Debug\Gyan.frmBillChange.resources
+G:\new vb project\gyan\gyan\obj\x86\Debug\Gyan.frmChangeBill.resources
+G:\new vb project\gyan\gyan\obj\x86\Debug\Gyan.frmCustomerRecord1.resources
+G:\new vb project\gyan\gyan\obj\x86\Debug\Gyan.frmDeleteAttendance.resources
+G:\new vb project\gyan\gyan\obj\x86\Debug\Gyan.frmCustomerEntryRecord3.resources
+G:\new vb project\gyan\gyan\obj\x86\Debug\Gyan.frmCustomerMaster1.resources
+G:\new vb project\gyan\gyan\obj\x86\Debug\Gyan.frmChangePassword.resources
+G:\new vb project\gyan\gyan\obj\x86\Debug\Gyan.frmCollectionRpt.resources
+G:\new vb project\gyan\gyan\obj\x86\Debug\Gyan.frmBalanceRpt.resources
+G:\new vb project\gyan\gyan\obj\x86\Debug\Gyan.frmHawkerList.resources
+G:\new vb project\gyan\gyan\obj\x86\Debug\Gyan.frmHawkerPaperSupplyRecord.resources
+G:\new vb project\gyan\gyan\obj\x86\Debug\Gyan.frmHawkerPaperTakenRecord.resources
+G:\new vb project\gyan\gyan\obj\x86\Debug\Gyan.frmCustomerEntryRecord2.resources
+G:\new vb project\gyan\gyan\obj\x86\Debug\Gyan.frmHawkerReturnRpt.resources
+G:\new vb project\gyan\gyan\obj\x86\Debug\Gyan.frmMagazineEntry.resources
+G:\new vb project\gyan\gyan\obj\x86\Debug\Gyan.frmMagazineRecord.resources
+G:\new vb project\gyan\gyan\obj\x86\Debug\Gyan.frmCollectionEntryRecord.resources
+G:\new vb project\gyan\gyan\obj\x86\Debug\Gyan.frmAreaRecord.resources
+G:\new vb project\gyan\gyan\obj\x86\Debug\Gyan.frmBillRpt.resources
+G:\new vb project\gyan\gyan\obj\x86\Debug\Gyan.frmCusExtraPaper.resources
+G:\new vb project\gyan\gyan\obj\x86\Debug\Gyan.frmCustomerEntryRecord.resources
+G:\new vb project\gyan\gyan\obj\x86\Debug\Gyan.frmCustomerEntryRecord1.resources
+G:\new vb project\gyan\gyan\obj\x86\Debug\Gyan.frmHawkerRecord.resources
+G:\new vb project\gyan\gyan\obj\x86\Debug\Gyan.frmAreaMaster.resources
+G:\new vb project\gyan\gyan\obj\x86\Debug\Gyan.frmCollectionRecord.resources
+G:\new vb project\gyan\gyan\obj\x86\Debug\Gyan.frmCustomerBalanceRecord.resources
+G:\new vb project\gyan\gyan\obj\x86\Debug\Gyan.FrmCustomerRecord.resources
+G:\new vb project\gyan\gyan\obj\x86\Debug\Gyan.Form2.resources
+G:\new vb project\gyan\gyan\obj\x86\Debug\Gyan.frmHawkerReturnRecord.resources
+G:\new vb project\gyan\gyan\obj\x86\Debug\Gyan.frmMagazineDetail.resources
+G:\new vb project\gyan\gyan\obj\x86\Debug\Gyan.frmReturnRpt.resources
+G:\new vb project\gyan\gyan\obj\x86\Debug\Gyan.Loginform.resources
+G:\new vb project\gyan\gyan\obj\x86\Debug\Gyan.frmDailyRecord.resources
+G:\new vb project\gyan\gyan\obj\x86\Debug\Gyan.frmRecordCustomerAccount.resources
+G:\new vb project\gyan\gyan\obj\x86\Debug\Gyan.frmCollectionEntry.resources
+G:\new vb project\gyan\gyan\obj\x86\Debug\Gyan.frmNewsPaperRecord.resources
+G:\new vb project\gyan\gyan\obj\x86\Debug\Gyan.frmCustomerAttendance.resources
+G:\new vb project\gyan\gyan\obj\x86\Debug\Gyan.frmCustomerAccount.resources
+G:\new vb project\gyan\gyan\obj\x86\Debug\Gyan.frmHawkerReturn.resources
+G:\new vb project\gyan\gyan\obj\x86\Debug\Gyan.frmHawkerPaperSupply.resources
+G:\new vb project\gyan\gyan\obj\x86\Debug\Gyan.frmHawkerPaperTaken.resources
+G:\new vb project\gyan\gyan\obj\x86\Debug\Gyan.frmCustomerDetails.resources
+G:\new vb project\gyan\gyan\obj\x86\Debug\Gyan.frmHawkerDetails.resources
+G:\new vb project\gyan\gyan\obj\x86\Debug\Gyan.frmMain.resources
+G:\new vb project\gyan\gyan\obj\x86\Debug\Gyan.FrmNewspaperDetails.resources
+G:\new vb project\gyan\gyan\obj\x86\Debug\Gyan.Resources.resources
+G:\new vb project\gyan\gyan\obj\x86\Debug\gyan.vbproj.GenerateResource.Cache

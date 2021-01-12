@@ -1,0 +1,368 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+gyan
+</name>
+</assembly>
+<members>
+<member name="T:Gyan.gyaDataSet.CountDaysDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Gyan.gyaDataSet.tblCustomerMonthlyDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Gyan.gyaDataSet.tblCustomerMoneyDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Gyan.gyaDataSet.HawkerMasterDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Gyan.gyaDataSet.UsersDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Gyan.gyaDataSet.tblAreaMasterDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Gyan.gyaDataSet.CustomerMasterDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Gyan.gyaDataSet.tblMagazineDetailDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Gyan.gyaDataSet.CustomerAttendanceEntryDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Gyan.gyaDataSet.tblCustomerAttendanceDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Gyan.gyaDataSet.tblCustomerAttendance1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Gyan.gyaDataSet.NewspaperMasterDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Gyan.gyaDataSet.tblCollectionEntryDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Gyan.gyaDataSet.HawkerPaperTakenDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Gyan.gyaDataSet.HawkerPaperSupplyDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Gyan.gyaDataSet.HawkerPaperReturnDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Gyan.gyaDataSet.tblExtraSoldDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Gyan.gyaDataSet.CustomerAttendanceEntry1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Gyan.gyaDataSet.CountDaysRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Gyan.gyaDataSet.tblCustomerMonthlyRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Gyan.gyaDataSet.tblCustomerMoneyRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Gyan.gyaDataSet.HawkerMasterRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Gyan.gyaDataSet.UsersRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Gyan.gyaDataSet.tblAreaMasterRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Gyan.gyaDataSet.CustomerMasterRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Gyan.gyaDataSet.tblMagazineDetailRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Gyan.gyaDataSet.CustomerAttendanceEntryRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Gyan.gyaDataSet.tblCustomerAttendanceRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Gyan.gyaDataSet.tblCustomerAttendance1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Gyan.gyaDataSet.NewspaperMasterRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Gyan.gyaDataSet.tblCollectionEntryRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Gyan.gyaDataSet.HawkerPaperTakenRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Gyan.gyaDataSet.HawkerPaperSupplyRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Gyan.gyaDataSet.HawkerPaperReturnRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Gyan.gyaDataSet.tblExtraSoldRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Gyan.gyaDataSet.CustomerAttendanceEntry1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Gyan.gyaDataSet.CountDaysRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Gyan.gyaDataSet.tblCustomerMonthlyRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Gyan.gyaDataSet.tblCustomerMoneyRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Gyan.gyaDataSet.HawkerMasterRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Gyan.gyaDataSet.UsersRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Gyan.gyaDataSet.tblAreaMasterRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Gyan.gyaDataSet.CustomerMasterRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Gyan.gyaDataSet.tblMagazineDetailRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Gyan.gyaDataSet.CustomerAttendanceEntryRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Gyan.gyaDataSet.tblCustomerAttendanceRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Gyan.gyaDataSet.tblCustomerAttendance1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Gyan.gyaDataSet.NewspaperMasterRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Gyan.gyaDataSet.tblCollectionEntryRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Gyan.gyaDataSet.HawkerPaperTakenRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Gyan.gyaDataSet.HawkerPaperSupplyRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Gyan.gyaDataSet.HawkerPaperReturnRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Gyan.gyaDataSet.tblExtraSoldRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Gyan.gyaDataSet.CustomerAttendanceEntry1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Gyan.gyaDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Gyan.gyaDataSetTableAdapters.CountDaysTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Gyan.gyaDataSetTableAdapters.tblCustomerMonthlyTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Gyan.gyaDataSetTableAdapters.tblCustomerMoneyTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Gyan.gyaDataSetTableAdapters.HawkerMasterTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Gyan.gyaDataSetTableAdapters.UsersTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Gyan.gyaDataSetTableAdapters.tblAreaMasterTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Gyan.gyaDataSetTableAdapters.CustomerMasterTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Gyan.gyaDataSetTableAdapters.tblMagazineDetailTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Gyan.gyaDataSetTableAdapters.CustomerAttendanceEntryTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Gyan.gyaDataSetTableAdapters.tblCustomerAttendanceTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Gyan.gyaDataSetTableAdapters.tblCustomerAttendance1TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Gyan.gyaDataSetTableAdapters.NewspaperMasterTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Gyan.gyaDataSetTableAdapters.tblCollectionEntryTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Gyan.gyaDataSetTableAdapters.HawkerPaperTakenTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Gyan.gyaDataSetTableAdapters.HawkerPaperSupplyTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Gyan.gyaDataSetTableAdapters.HawkerPaperReturnTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Gyan.gyaDataSetTableAdapters.tblExtraSoldTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Gyan.gyaDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Gyan.gyaDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Gyan.gyaDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Gyan.gyaDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Gyan.gyaDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Gyan.gyaDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Gyan.gyaDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Gyan.gyaDataSetTableAdapters.TableAdapterManager.UpdateAll(Gyan.gyaDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Gyan.gyaDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Gyan.gyaDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Gyan.gyaDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:Gyan.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Gyan.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Gyan.My.Resources.Resources.calc">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gyan.My.Resources.Resources.MS_Word_2_icon1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gyan.My.Resources.Resources.Newspaper">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gyan.My.Resources.Resources.Notepad1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gyan.My.Resources.Resources.system_information_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gyan.My.Resources.Resources.Wordpad_icon__Windows_7_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:Gyan.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
